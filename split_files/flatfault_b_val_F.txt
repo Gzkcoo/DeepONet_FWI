@@ -1,0 +1,12 @@
+FWI_F/FlatFault_B/data/data97.npy	FWI_F/FlatFault_B/frequency/frequency97.npy	FWI_F/FlatFault_B/model/model97.npy
+FWI_F/FlatFault_B/data/data98.npy	FWI_F/FlatFault_B/frequency/frequency98.npy	FWI_F/FlatFault_B/model/model98.npy
+FWI_F/FlatFault_B/data/data99.npy	FWI_F/FlatFault_B/frequency/frequency99.npy	FWI_F/FlatFault_B/model/model99.npy
+FWI_F/FlatFault_B/data/data100.npy	FWI_F/FlatFault_B/frequency/frequency100.npy	FWI_F/FlatFault_B/model/model100.npy
+FWI_F/FlatFault_B/data/data101.npy	FWI_F/FlatFault_B/frequency/frequency101.npy	FWI_F/FlatFault_B/model/model101.npy
+FWI_F/FlatFault_B/data/data102.npy	FWI_F/FlatFault_B/frequency/frequency102.npy	FWI_F/FlatFault_B/model/model102.npy
+FWI_F/FlatFault_B/data/data103.npy	FWI_F/FlatFault_B/frequency/frequency103.npy	FWI_F/FlatFault_B/model/model103.npy
+FWI_F/FlatFault_B/data/data104.npy	FWI_F/FlatFault_B/frequency/frequency104.npy	FWI_F/FlatFault_B/model/model104.npy
+FWI_F/FlatFault_B/data/data105.npy	FWI_F/FlatFault_B/frequency/frequency105.npy	FWI_F/FlatFault_B/model/model105.npy
+FWI_F/FlatFault_B/data/data106.npy	FWI_F/FlatFault_B/frequency/frequency106.npy	FWI_F/FlatFault_B/model/model106.npy
+FWI_F/FlatFault_B/data/data107.npy	FWI_F/FlatFault_B/frequency/frequency107.npy	FWI_F/FlatFault_B/model/model107.npy
+FWI_F/FlatFault_B/data/data108.npy	FWI_F/FlatFault_B/frequency/frequency108.npy	FWI_F/FlatFault_B/model/model108.npy

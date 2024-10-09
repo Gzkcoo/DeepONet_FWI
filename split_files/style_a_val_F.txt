@@ -1,0 +1,14 @@
+FWI_F/Style_A/data/data121.npy	FWI_F/Style_A/frequency/frequency121.npy	FWI_F/Style_A/model/model121.npy
+FWI_F/Style_A/data/data122.npy	FWI_F/Style_A/frequency/frequency122.npy	FWI_F/Style_A/model/model122.npy
+FWI_F/Style_A/data/data123.npy	FWI_F/Style_A/frequency/frequency123.npy	FWI_F/Style_A/model/model123.npy
+FWI_F/Style_A/data/data124.npy	FWI_F/Style_A/frequency/frequency124.npy	FWI_F/Style_A/model/model124.npy
+FWI_F/Style_A/data/data125.npy	FWI_F/Style_A/frequency/frequency125.npy	FWI_F/Style_A/model/model125.npy
+FWI_F/Style_A/data/data126.npy	FWI_F/Style_A/frequency/frequency126.npy	FWI_F/Style_A/model/model126.npy
+FWI_F/Style_A/data/data127.npy	FWI_F/Style_A/frequency/frequency127.npy	FWI_F/Style_A/model/model127.npy
+FWI_F/Style_A/data/data128.npy	FWI_F/Style_A/frequency/frequency128.npy	FWI_F/Style_A/model/model128.npy
+FWI_F/Style_A/data/data129.npy	FWI_F/Style_A/frequency/frequency129.npy	FWI_F/Style_A/model/model129.npy
+FWI_F/Style_A/data/data130.npy	FWI_F/Style_A/frequency/frequency130.npy	FWI_F/Style_A/model/model130.npy
+FWI_F/Style_A/data/data131.npy	FWI_F/Style_A/frequency/frequency131.npy	FWI_F/Style_A/model/model131.npy
+FWI_F/Style_A/data/data132.npy	FWI_F/Style_A/frequency/frequency132.npy	FWI_F/Style_A/model/model132.npy
+FWI_F/Style_A/data/data133.npy	FWI_F/Style_A/frequency/frequency133.npy	FWI_F/Style_A/model/model133.npy
+FWI_F/Style_A/data/data134.npy	FWI_F/Style_A/frequency/frequency134.npy	FWI_F/Style_A/model/model134.npy

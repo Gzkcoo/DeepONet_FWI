@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cc2cba3-a06f-4b51-a3a5-bce47f700463" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2gIuUTckcg0cd5e3QibnLvfVLRn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/other/leetcode" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\FWI\split_files" />
+      <recent name="C:\Users\Admin\Desktop\FWI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aaa">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FWI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inversion_deeponet_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FWI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inversion_deeponet_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.inversion_deeponet_train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cc2cba3-a06f-4b51-a3a5-bce47f700463" name="Default Changelist" comment="" />
+      <created>1715397428786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715397428786</updated>
+      <workItem from="1715397433613" duration="4425000" />
+      <workItem from="1715573667948" duration="230000" />
+      <workItem from="1715574107979" duration="2723000" />
+      <workItem from="1715604453144" duration="1278000" />
+      <workItem from="1715605893643" duration="604000" />
+      <workItem from="1715606730243" duration="1456000" />
+      <workItem from="1715754759905" duration="427000" />
+      <workItem from="1715760698118" duration="5670000" />
+      <workItem from="1715824661548" duration="10356000" />
+      <workItem from="1715852677551" duration="1209000" />
+      <workItem from="1715929433858" duration="11705000" />
+      <workItem from="1716294958767" duration="3661000" />
+      <workItem from="1716445422800" duration="1070000" />
+      <workItem from="1716791320294" duration="17107000" />
+      <workItem from="1716962852572" duration="19074000" />
+      <workItem from="1717305994620" duration="6303000" />
+      <workItem from="1717426514695" duration="593000" />
+      <workItem from="1717470477459" duration="4133000" />
+      <workItem from="1717641922553" duration="2419000" />
+      <workItem from="1717817776635" duration="2441000" />
+      <workItem from="1717846038763" duration="4987000" />
+      <workItem from="1718156070747" duration="3798000" />
+      <workItem from="1718242048384" duration="11695000" />
+      <workItem from="1718781395740" duration="12581000" />
+      <workItem from="1719316270661" duration="722000" />
+      <workItem from="1721904633098" duration="16520000" />
+      <workItem from="1722917161758" duration="7051000" />
+      <workItem from="1723033408198" duration="1894000" />
+      <workItem from="1723555715867" duration="786000" />
+      <workItem from="1724933314884" duration="731000" />
+      <workItem from="1724996655455" duration="2046000" />
+      <workItem from="1728463159623" duration="172000" />
+      <workItem from="1728463339515" duration="277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="194" key="FileChooserDialogImpl" timestamp="1728463353219">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="705" y="194" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1728463353219" />
+    <state x="828" y="397" width="869" height="427" key="Github.ShareDialog" timestamp="1728463614987">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="828" y="397" width="869" height="427" key="Github.ShareDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1728463614987" />
+    <state width="1983" height="409" key="GridCell.Tab.0.bottom" timestamp="1723634588621">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1983" height="409" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1723634588621" />
+    <state width="1983" height="409" key="GridCell.Tab.0.center" timestamp="1723634588621">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1983" height="409" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1723634588621" />
+    <state width="1983" height="409" key="GridCell.Tab.0.left" timestamp="1723634588621">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1983" height="409" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1723634588621" />
+    <state width="1983" height="409" key="GridCell.Tab.0.right" timestamp="1723634588621">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1983" height="409" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1723634588621" />
+    <state x="279" y="26" key="SettingsEditor" timestamp="1728463442544">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="279" y="26" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1728463442544" />
+    <state x="557" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1724996658281">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="557" y="295" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1724996658281" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FWI$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1723555890027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FWI$inversion_deeponet_train.coverage" NAME="inversion_deeponet_train Coverage Results" MODIFIED="1715652880344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

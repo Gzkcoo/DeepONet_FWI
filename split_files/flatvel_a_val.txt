@@ -1,0 +1,12 @@
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data49.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model49.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data50.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model50.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data51.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model51.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data52.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model52.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data53.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model53.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data54.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model54.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data55.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model55.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data56.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model56.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data57.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model57.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data58.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model58.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data59.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model59.npy
+/dataset/versionFile/V0001/FWI_L/FlatVel_B/data/data60.npy	/dataset/versionFile/V0001/FWI_L/FlatVel_B/model/model60.npy
